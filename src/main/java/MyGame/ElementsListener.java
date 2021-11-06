@@ -302,6 +302,15 @@ public class ElementsListener implements ActionListener {
                 if(elemenst[rn1][rn2].stan == 0) {//[6]
                     elemenst[rn1][rn2].stan=2;
                     ints[rn1][rn2]=2;//[6]
+                    /*
+                    do {
+                        // code block to be executed
+
+
+
+                    }
+                    while (condition);
+                    */
                     break;
                 }
                 else {
